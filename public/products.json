@@ -1,0 +1,44 @@
+[
+    {
+        "_id": 1,
+        "name": "LED projector",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Cw9FkPB/el-img13-hover-450x450.jpg"
+    },
+    {
+        "_id": 2,
+        "name": "Drones Helicopter",
+        "price": "200",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/FgRV0Np/el-img15-hover-450x450.jpg"
+    },
+    {
+        "_id": 3,
+        "name": "Portable Air Cooler",
+        "price": "300",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/3dX7M3Y/el-img16-hover-450x450.png"
+    },
+    {
+        "_id": 4,
+        "name": "PlayStation 5 DualSense",
+        "price": "500",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Wvv1qj2/el-img17-hover-450x450.jpg"
+    },
+    {
+        "_id": 5,
+        "name": "M5 Smart Monitor",
+        "price": "600",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/Y0DbJhS/el-img20-hover-450x450.jpg"
+    },
+    {
+        "_id": 6,
+        "name": "Dual Band Wireless",
+        "price": "100",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ibb.co/g6zqQZN/el-img21-hover-450x450.jpg"
+    }
+]
